@@ -5,6 +5,7 @@
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samir-guimar%C3%A3es-a5140b219/)
 
 ![Samir Guimarães GitHub stats](https://github-readme-stats.vercel.app/api?username=SamirGuimaraes&show_icons=true&theme=radical)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamirGuimaraes&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia-a-dia.
