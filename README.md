@@ -1,12 +1,14 @@
-## Hi there 👋
-### Olá, me chamo Samir Guimarães 👋🖐️👋
+## Seja Bem-Vindo
+### Olá, me chamo Samir Guimarães 👋
+#### Sou estudande de Ciências da Computação UERJ, um amante da linguagem C e ciências de dados
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/samir_guima/)
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samir-guimar%C3%A3es-a5140b219/)
 
+
 ![Samir Guimarães GitHub stats](https://github-readme-stats.vercel.app/api?username=SamirGuimaraes&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamirGuimaraes&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamirGuimaraes&layout=compact)
 
 ## Tecnologias que eu uso no meu dia-a-dia.
 
